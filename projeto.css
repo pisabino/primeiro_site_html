@@ -1,0 +1,111 @@
+
+#cabecalho
+{
+    width: 100%;
+    position: relative;
+    padding-bottom: 2%;
+}
+#astronauta
+{
+    width: 10%;
+    position: absolute;
+    top: 10px;
+    left: 13%;
+}
+#planeta
+{
+    width: 10%;
+    position: absolute;
+    top: 10px;
+    right: 75px;
+}
+
+ul a:hover
+{
+    color:red;
+    text-decoration: underline;
+         
+}
+
+ul a:active
+{
+    border-color: black;
+}
+
+ul a 
+{
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;    
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+
+.textoprincipal
+{
+    margin: 0 15%;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding:1% 1%;
+    background-color: rgba(0, 0, 0, 0.26);
+}
+
+.textoprincipal:hover
+{
+   border:2px solid #daa520;
+}
+
+body{background:rgb(51, 50, 50);}
+
+#bemvindo
+{
+    text-align: center;
+    color: red;
+    font-size: 22px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    text-align: justify;
+    font-size: 18px;
+    padding:10px;
+    color:rgba(255, 255, 255, 0.822);     
+}
+
+#discovoador
+{
+    width: 5%;
+    text-align: right;
+}
+
+footer
+{ 
+    
+    margin-top: 2%;
+    margin-bottom:2%;
+}
+
+.rodape
+{
+    text-align: center;
+    margin-bottom: 2%;         
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
